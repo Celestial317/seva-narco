@@ -1,0 +1,35 @@
+# Core API & Server
+fastapi
+uvicorn
+python-multipart
+pydantic
+python-dotenv
+
+# Machine Learning & Data Processing
+torch
+torchvision
+numpy
+sentence-transformers
+Pillow
+networkx
+
+# Web Scraping & Networking
+requests
+beautifulsoup4
+pysocks  # Required for SOCKS5 proxy support (Tor)
+
+# LLM & Agents
+langchain-core
+langchain-community
+langchain-openai
+langchain-ollama
+langchain-anthropic
+langchain-google-genai
+
+# CLI & UI Tools
+click
+yaspin
+streamlit
+
+# Utilities
+backports.tarfile
